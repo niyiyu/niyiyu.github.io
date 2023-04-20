@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yiyu Ni's Homepage"
-title_separator          : ""
-name                     : ""
+title_separator          : "-"
+name                     : &name "Yiyu Ni"
 description              : &description "personal description"
 url                      : https://niyiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
