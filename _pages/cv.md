@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](http://niyiyu.github.io/files/CV_Yiyu_Ni.pdf)
+
 Education
 ======
 * Ph.D in Earth and Space Sciences, University of Washington, 2026 (expected)
