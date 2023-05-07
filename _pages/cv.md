@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Earth and Space Sciences, University of Washington, 2026 (expected)
-* B.S. in Geophysics, Jilin University, 2020
+* B.Sc. in Geophysics, Jilin University, 2020
 
 Research Interests
 ======
@@ -26,11 +26,11 @@ Research Experience
 ======
 * Dec. 2020 – May 2021: Research Assistant
   * Nanjing University
-  * Supervisor: Youyi Ruan
+  * Advisor: Youyi Ruan
 
 * Jul. – Sept. 2019: Student Intern
   * Harvard University
-  * Supervisor: Miaki Ishii
+  * Advisor: Miaki Ishii
 
 Publications
 ======
@@ -44,6 +44,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Service
 ======
 * Duty Seismologist at Pacific Northwest Seismic Network, 2022 – 
+
+Teaching Experience
+======
+*	SCEC High Performance Seismology CyberTraining 2023, Teaching Assistant and Tutorial Lead, May 2023
+
+Field Experience
+======
+*	Cascadia 2021: nodal seismometer (ZLand) deployment and retrieval, 2022, Tillamook, OR
+
