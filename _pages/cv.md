@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Earth and Space Sciences, University of Washington, 2026 (expected)
+* B.S. in Geophysics, Jilin University, 2020
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* High-performance Seismology
+* Distributed Acoustic Sensing
+* Machine Learning
+* Cloud Computing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dec. 2020 – May 2021: Research Assistant
+  * Nanjing University
+  * Supervisor: Youyi Ruan
+
+* Jul. – Sept. 2019: Student Intern
+  * Harvard University
+  * Supervisor: Miaki Ishii
 
 Publications
 ======
@@ -48,12 +44,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Duty Seismologist at Pacific Northwest Seismic Network, 2022 – 
