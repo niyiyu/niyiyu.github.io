@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiyu Ni's Homepage"
+title                    : "Yiyu's Homepage"
 title_separator          : "-"
 name                     : &name "Yiyu Ni"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Yiyu Ni"
   avatar           : "profile.png"
   bio              : "PhD student at University of Washington"
-  location         : "Seattle, WA, USA"
+  location         : "Seattle, WA, U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FLu0PP4AAAAJ"
