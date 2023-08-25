@@ -23,17 +23,6 @@ Research Interests
 * Machine Learning
 * Cloud Computing
 
-
-Research Experience
-======
-* Dec. 2020 – May 2021: Research Assistant
-  * Nanjing University
-  * Advisor: Youyi Ruan
-
-* Jul. – Sept. 2019: Student Intern
-  * Harvard University
-  * Advisor: Miaki Ishii
-
 Publications
 ======
   <ul>{% for post in site.publications %}
