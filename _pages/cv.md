@@ -39,11 +39,14 @@ Professional Service
 ======
 * Duty Seismologist at Pacific Northwest Seismic Network, 2022 – 
 
-Teaching Experience
+Teaching/Mentor Experience
 ======
+* ESS 314: Geophysics, Teaching Assistant and Lab Instructor, Fall 2023
 *	SCEC High Performance Seismology CyberTraining 2023, Teaching Assistant and Tutorial Lead, May 2023
+* Capstone Project of Informaiton School, University of Washington, Mentor, 2023
 
 Field Experience
 ======
-*	Cascadia 2021: nodal seismometer (ZLand) deployment and retrieval, 2022, Tillamook, OR
+*	Cascadia 2021: nodal seismometer (ZLand) deployment and retrieval, Tillamook, OR, 2022
+* DAS setup and deployment, Homer, AK, 2023
 
