@@ -18,10 +18,9 @@ Education
 
 Research Interests
 ======
-* High-performance Seismology
+* Cloud & High-performance Seismology
 * Distributed Acoustic Sensing
 * Machine Learning
-* Cloud Computing
 
 Publications
 ======
