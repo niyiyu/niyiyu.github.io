@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](http://dasway.ess.washington.edu/shared/niyiyu/CV_Yiyu_Ni.pdf)
+
 Education
 ======
-* Ph.D in Earth and Space Sciences, University of Washington, 2026 (expected)
-* B.Sc. in Geophysics, Jilin University, 2020
+* Ph.D in Earth and Space Sciences with Data Science Option, University of Washington, 2026 (expected)
+* B.Sc. in Geophysics, Jilin University, Dec. 2020
 
 Research Interests
 ======
@@ -46,5 +48,3 @@ Field Experience
 ======
 *	Cascadia 2021: nodal seismometer (ZLand) deployment and retrieval, Tillamook, OR, 2022
 * DAS setup and deployment, Homer, AK, 2023
-
-[PDF version](http://dasway.ess.washington.edu/shared/niyiyu/CV_Yiyu_Ni.pdf)

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiyu Ni"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Washington"
+  bio              : "Seismology PhD student, University of Washington"
   location         : "Seattle, WA, U.S."
   employer         :
   pubmed           : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yiyu-ni-501441182/"
+  linkedin         : #"yiyu-ni-501441182/"
   orcid            : "http://orcid.org/0000-0001-5181-9700"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "niyiyu_"
+  twitter          : #"niyiyu_"
   vine             :
   weibo            :
   xing             :
