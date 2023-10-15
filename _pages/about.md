@@ -12,7 +12,7 @@ I am currently a seismology Ph.D. student in the Department of [Earth and Space 
 
 The overall goal of my research is to advance our knowledge of monitoring earthquakes and near-surface structure by leveraging heterogeneous datasets from seismic stations and fiber-optic sensing. A core focus of my research is the development of cutting-edge tools that empower cloud computing for massive seismic data storing and processing. My recent study involves time-lapse imaging of shallow subsurface using a dark fiber in the northern Seattle region. 
 
-![](https://niyiyu.github.io/images/ess.png)
+![](https://niyiyu.github.io/images/ess.jpg)
 
 ---
 ### Related links:
