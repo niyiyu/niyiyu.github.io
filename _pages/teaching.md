@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+---
 ### ESS 314: Geophysics (Fall 2023)
 *Undergraduate course, Earth and Space Sciences, University of Washington*
 

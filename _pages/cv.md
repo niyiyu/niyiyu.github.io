@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+---
 {% include base_path %}
 
 [PDF version](http://dasway.ess.washington.edu/shared/niyiyu/CV_Yiyu_Ni.pdf)
