@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-## Publication 
 (*) denotes corresponding author.
 
 - **Ni, Y.***, Denolle, M. A., Fatland, R., Alterman, N., Lipovsky, B. P., Knuth, F. (2023). An Object Storage for Distributed Acoustic Sensing. Seismological Research Letters. [[more]](https://niyiyu.github.io/publication/2023-10-dasstore)
