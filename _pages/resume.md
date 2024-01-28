@@ -21,7 +21,8 @@ Education
 
 Research Interests
 ======
-* Cloud Computing & High-performance Seismology
+* Cloud Computing
+* High-performance Seismology
 * Distributed Acoustic Sensing
 * Machine Learning
   
@@ -44,8 +45,8 @@ Computational Skill
 
 Field Experience
 ======
-*	Cascadia 2021: nodal seismometer (ZLand) deployment & retrieval, Tillamook, OR. 2022
 * DAS setup and deployment, Homer, AK. 2023
+*	Cascadia 2021: nodal seismometer (ZLand) deployment & retrieval, Tillamook, OR. 2022
 
 Visiting Experience
 ======
