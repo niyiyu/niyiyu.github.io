@@ -1,7 +1,7 @@
 ---
 title: "An Object Storage for Distributed Acoustic Sensing"
 collection: publications
-permalink: /publication/2023-10-dasstore
+permalink: /publication/2024-01-dasstore
 date: 2024-01-31
 ---
 
