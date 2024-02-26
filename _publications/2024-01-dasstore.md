@@ -2,7 +2,7 @@
 title: "An Object Storage for Distributed Acoustic Sensing"
 collection: publications
 permalink: /publication/2023-10-dasstore
-date: 2023-10-14
+date: 2024-01-31
 ---
 
 ## Abstracts
@@ -13,4 +13,4 @@ Published in *Seismological Research Letters*. Read the full paper
 
 Project repository: [https://github.com/niyiyu/dasstore](https://github.com/niyiyu/dasstore)
 
-Ni, Y., Denolle M.A., Fatland, R., Alterman, N., Lipovsky, B.P., Knuth F. (2023). An Object Storage for Distributed Acoustic Sensing. Seismological Research Letters.
+Ni, Y., Denolle M. A., Fatland, R., Alterman, N., Lipovsky, B. P., Knuth F. (2024). An Object Storage for Distributed Acoustic Sensing. Seismological Research Letters, 95(1).

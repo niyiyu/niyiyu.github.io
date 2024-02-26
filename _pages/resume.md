@@ -33,7 +33,7 @@ Professional Service
 Teaching/Mentor Experience
 ======
 * ESS 314: Geophysics (University of Washington), Teaching Assistant & Lab Instructor. Fall 2023
-*	SCEC High Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
+*	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
 * Capstone Project of Information School (University of Washington), Mentor. 2023
 * Geoscience Education & Mentorship Support Program, Mentor. 2023
 
