@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Earth and Space Sciences, University of Washington, 2026 (expected)
+* Ph.D. student in Earth and Space Sciences, University of Washington, 2026 (expected)
   * Data Science Option
   * Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
 * B.Sc. in Geophysics, Jilin University, Dec. 2020
