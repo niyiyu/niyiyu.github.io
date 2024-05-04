@@ -35,13 +35,14 @@ Teaching/Mentor Experience
 * ESS 314: Geophysics (University of Washington), Teaching Assistant & Lab Instructor. Fall 2023
 *	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
 * Capstone Project of Information School (University of Washington), Mentor. 2023
-* Geoscience Education & Mentorship Support Program, Mentor. 2023
+* SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. May. 2024
 
 Computational Skill
 ======
 * Python, Matlab, Julia, Fortran, C
 * Cloud computing (AWS, Azure) and HPC (Slurm)
 * PyTorch, ObsPy, MPI, SQL, MinIO, Git, Docker
+* SPECFEM 2D/3D
 
 Field Experience
 ======
