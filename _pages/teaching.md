@@ -13,7 +13,7 @@ This is an undergraduate-level course from Department of Earth and Space Science
 The lab material is available at [https://github.com/UW-geophysics-edu/ESS314-fall23](https://github.com/UW-geophysics-edu/ESS314-fall23). The auto-grader source file will be available upon request. 
 
 ---
-### Cloud Computing 101 for Seismologist (May 2024)
+### Cloud Computing 101 for Seismology (May 2024)
 *Workshop course, [SSA Annual Meeting](https://meetings.seismosoc.org/workshops-and-field-trips/#DataMining) and [NSF-SCOPED Workshop](https://seisscoped.org/workshop-2024/)*
 
 This workshop course provides hands-on cloud computing practice for seismologists. Basic concepts about cloud computing and the service providers are introduced. Participants are provided opportunities and tutorials to launch their own virtual machines on AWS. The working environment and a Jupyter lab is configured through a pre-built [Docker image](https://github.com/seisSCOPED/seis_cloud). Participants are leaded to run a simple workflow, which reads S3-hosted SCEDC/NCEDC data, performs STA/LTA trigger, and writes the results into a common database. 
