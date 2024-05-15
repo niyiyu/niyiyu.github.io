@@ -16,7 +16,7 @@ The overall goal of my research is to advance our knowledge of monitoring earthq
 
 ### Related links:
 - [Denolle Quake Lab](https://denolle-lab.github.io)
-- [Fiber-Lab at University of Washington](https://fiberlab.uw.edu)
+- [UW Fiber-Lab](https://fiberlab.uw.edu)
 
 ---
 ![](https://niyiyu.github.io/images/ess.jpg)

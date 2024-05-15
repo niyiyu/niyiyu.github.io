@@ -21,15 +21,16 @@ Education
 
 Research Interests
 ======
+* Machine Learning
 * Cloud Computing and High-performance Seismology
 * Distributed Acoustic Sensing
-* Machine Learning
+
 
 Teaching/Mentor Experience
 ======
-* ESS 314: Geophysics (University of Washington), Teaching Assistant & Lab Instructor. Fall 2023
+* ESS 314: Geophysics (UW), Teaching Assistant & Lab Instructor. Fall 2023
 *	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
-* Capstone Project of Information School (University of Washington), Mentor. 2023
+* Capstone Project of Information School (UW), Mentor. 2023
 * SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. May. 2024
 
 Computational Skill
