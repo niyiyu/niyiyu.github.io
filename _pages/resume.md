@@ -21,14 +21,9 @@ Education
 
 Research Interests
 ======
-* Cloud Computing
-* High-performance Seismology
+* Cloud Computing and High-performance Seismology
 * Distributed Acoustic Sensing
 * Machine Learning
-  
-Professional Service
-======
-* Duty Seismologist at Pacific Northwest Seismic Network. 2022 – Present
 
 Teaching/Mentor Experience
 ======
@@ -40,13 +35,13 @@ Teaching/Mentor Experience
 Computational Skill
 ======
 * Python, Matlab, Julia, Fortran, C
-* Cloud computing (AWS, Azure) and HPC (Slurm)
+* Cloud computing (AWS, Azure), HPC (Slurm)
 * PyTorch, ObsPy, MPI, SQL, MinIO, Git, Docker
 * SPECFEM 2D/3D
 
 Field Experience
 ======
-* DAS setup and deployment, Homer, AK. 2023
+* Cook Inlet DAS experiment: setup and deployment, Homer, AK. 2023
 *	Cascadia 2021: nodal seismometer (ZLand) deployment & retrieval, Tillamook, OR. 2022
 
 Visiting Experience
