@@ -13,25 +13,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in Earth and Space Sciences, University of Washington, 2026 (expected)
+* Ph.D. student in Earth and Space Sciences, University of Washington, 2021 - present
   * Data Science Option
   * Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
-* B.Sc. in Geophysics, Jilin University, Dec. 2020
+* B.Sc. in Geophysics, Jilin University, 2016 - 2020
   * Advisor: [Jing Li](https://scholar.google.com/citations?hl=en&user=qRXXUOQAAAAJ&view_op=list_works&sortby=pubdate)
-
-Research Interests
-======
-* Machine Learning
-* Cloud Computing and High-performance Seismology
-* Distributed Acoustic Sensing
-
-
-Teaching/Mentor Experience
-======
-* ESS 314: Geophysics (UW), Teaching Assistant & Lab Instructor. Fall 2023
-*	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
-* Capstone Project of Information School (UW), Mentor. 2023
-* SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. May. 2024
 
 Computational Skill
 ======
@@ -40,6 +26,13 @@ Computational Skill
 * PyTorch, ObsPy, MPI, SQL, MinIO, Git, Docker
 * SPECFEM 2D/3D
 
+Teaching Experience
+======
+* ESS 314: Geophysics (UW), Teaching Assistant & Lab Instructor. Fall 2023
+*	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
+* SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. April. 2024
+* NSF SCOPED Workshop, Teaching Assistant & Tutorial Lead. May. 2024
+
 Field Experience
 ======
 * Cook Inlet DAS experiment: setup and deployment, Homer, AK. 2023
@@ -47,5 +40,5 @@ Field Experience
 
 Visiting Experience
 ======
-* Research Assistant at Nanjing University, Nanjing, China. Dec. 2022 - May. 2023
+* Research Assistant at Nanjing University, Nanjing, China. Nov. 2020 - May. 2021
 * Student Intern at Harvard University, Cambridge, MA. Jul. - Sept. 2019
