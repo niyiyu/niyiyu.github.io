@@ -40,5 +40,5 @@ Field Experience
 
 Visiting Experience
 ======
-* Research Assistant at Nanjing University, Nanjing, China. Nov. 2020 - May. 2021
-* Student Intern at Harvard University, Cambridge, MA. Jul. - Sept. 2019
+* Research Assistant at Nanjing University. Nov. 2020 - May. 2021
+* Student Intern at Harvard University. Jul. - Sept. 2019
