@@ -30,7 +30,7 @@ Teaching Experience
 ======
 * ESS 314: Geophysics (UW), Teaching Assistant & Lab Instructor. Fall 2023
 *	SCEC High-Performance Seismology CyberTraining 2023, Teaching Assistant & Tutorial Lead. May. 2023
-* SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. April. 2024
+* SSA Annual Meeting Workshop: Data Mining on the Cloud, Organizer & Tutorial Lead. Apr. 2024
 * NSF SCOPED Workshop, Teaching Assistant & Tutorial Lead. May. 2024
 
 Field Experience
