@@ -12,14 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D. student in Earth and Space Sciences, University of Washington, 2021 - present
-  * Data Science Option
   * Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
 * B.Sc. in Geophysics, Jilin University, 2016 - 2020
 
 Computational Skill
 ======
 * Python, Matlab, Julia, Fortran, C
-* Cloud computing (AWS, Azure), HPC (Slurm)
 * PyTorch, ObsPy, MPI, SQL, MinIO, Git, Docker
 * SPECFEM 2D/3D
 
