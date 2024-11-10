@@ -12,8 +12,7 @@ redirect_from:
 <h2>Education</h2>
 
 * Ph.D. student in Earth and Space Sciences, University of Washington, 2021 - present
-  * Seismology, Data Science
-  * Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
+  * Seismology, Data Science | Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
 * B.S. in Geophysics, Jilin University, 2016 - 2020
 
 <h2>Computational Skill</h2>
