@@ -15,4 +15,5 @@ author_profile: true
 7. Krauss, Z., **Ni, Y.**, Henderson, S., & Denolle, M. A. (2023). Seismology in the cloud: guidance for the individual researcher. *Seismica*, 2(2). [[Link]](https://doi.org/10.26443/seismica.v2i2.979) [[Code]](https://github.com/Denolle-Lab/seismicloud)
 
 ## Pre-prints
-8. **Ni, Y.**, Denolle, M. A., Thomas A. M., Hamilton, A., Münchmeyer, J., Wang, Y., Bachelot, L., Trabant, C., & David, M. (2025). A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte Scale, submitted to *Seismica*. [[Link]](https://doi.org/10.48550/arXiv.2505.18874)
+8. **Ni, Y.**, Denolle, M. A., Thomas, A. M., Hamilton, A., Münchmeyer, J., Wang, Y., Bachelot, L., Trabant, C., & Mencin, D. (2025). A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte Scale, submitted to *Seismica*. [[Link]](https://doi.org/10.48550/arXiv.2505.18874)
+9. **Ni, Y.**, Denolle, M. A., Münchmeyer, J., Wang, Y., Feng, K. F., Suarez, C. G. J., Thomas, A. M., Trabant, C., Hamilton, A., & Mencin, D. (2025). A Review of Cloud Computing in Seismology, submitted to Geophysical Journal International. [[Link]](https://doi.org/10.48550/arXiv.2506.11307)
