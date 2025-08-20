@@ -37,7 +37,7 @@ redirect_from:
 
 <h2>Professional Service</h2>
 
-* Session Chair, Machine Learning in Assisting Geological Interpretation. IMAGE, Houston, TX. 2024
+* Session Chair, Machine Learning in Assisting Geological Interpretation. *SEG-AAPG IMAGE*, Houston, TX. 2024
 * Organizing Committee, Seismology Student Workshop, Seattle, WA. 2024
 * Duty Seismologist at Pacific Northwest Seismic Network. 2022 - present
 
