@@ -27,7 +27,7 @@ redirect_from:
 
 * Data Science Intern, Schlumberger, Houston, TX. 2024, 2025
 * Student Intern, Harvard University, Cambridge, MA. 2019
-* 
+
 <h2>Field Experience</h2>
 
 * Cook Inlet DAS experiment: setup and deployment, Homer, AK. 2023
