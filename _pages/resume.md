@@ -15,19 +15,19 @@ redirect_from:
   * Advisor: [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
 * B.S. in Geophysics, Jilin University, 2016 - 2020
 
-<h2>Work Experience</h2>
-
-* Data Science Intern, Schlumberger, Houston, TX. 2024, 2025
-* Student Intern, Harvard University, Cambridge, MA. 2019
-* 
 <h2>Teaching Experience</h2>
 
 * CRESCENT Machine Learning Technical Short Course. 2025
 * NSF SCOPED Workshop. 2024
 * SSA Annual Meeting Workshop. 2024
 * UW ESS 314: Geophysics. 2023
-*	SCEC High-Performance Seismology CyberTraining 2023. 2023
+*	SCEC High-Performance Seismology CyberTraining. 2023
 
+<h2>Work Experience</h2>
+
+* Data Science Intern, Schlumberger, Houston, TX. 2024, 2025
+* Student Intern, Harvard University, Cambridge, MA. 2019
+* 
 <h2>Field Experience</h2>
 
 * Cook Inlet DAS experiment: setup and deployment, Homer, AK. 2023
